@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Customer%20Behavior%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=End-to-End%20Data%20Analytics%20Portfolio%20Project&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Customer%20Behavior%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=SQLxPython%20Analytics%20With%20BI&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
